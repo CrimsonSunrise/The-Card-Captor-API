@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "name": "Audi 250",
+      "price": "500002",
+      "owner": "admiralty20",
+      "last_bidder": null
+    },
+    {
+      "name": "Lamborghini S50",
+      "price": "200001",
+      "owner": "susaske40",
+      "last_bidder": "Brabíssimo"
+    },
+    {
+      "name": "Ferrari F560",
+      "price": "100000",
+      "owner": "samson35",
+      "last_bidder": "admiralty20"
+    },
+    {
+      "name": "Card Game",
+      "price": "1000",
+      "owner": "CrimsonSunrise"
+    },
+    {
+      "name": "Test Product",
+      "price": "100001",
+      "owner": null,
+      "last_bidder": "CrimsonSunrise"
+    }
+  ]
+}
